@@ -1,0 +1,12 @@
+D:\Programming\Grand Circus Bootcamp\Lab6\Lab6\bin\Debug\Lab6.exe.config
+D:\Programming\Grand Circus Bootcamp\Lab6\Lab6\bin\Debug\Lab6.exe
+D:\Programming\Grand Circus Bootcamp\Lab6\Lab6\bin\Debug\Lab6.pdb
+D:\Programming\Grand Circus Bootcamp\Lab6\Lab6\obj\Debug\Lab6.csprojAssemblyReference.cache
+D:\Programming\Grand Circus Bootcamp\Lab6\Lab6\obj\Debug\Lab6.csproj.CoreCompileInputs.cache
+D:\Programming\Grand Circus Bootcamp\Lab6\Lab6\obj\Debug\Lab6.csproj.CopyComplete
+D:\Programming\Grand Circus Bootcamp\Lab6\Lab6\obj\Debug\Lab6.exe
+D:\Programming\Grand Circus Bootcamp\Lab6\Lab6\obj\Debug\Lab6.pdb
+D:\Programming\Grand Circus Bootcamp\Lab6\Lab6\bin\Debug\Antlr4.Runtime.Standard.dll
+D:\Programming\Grand Circus Bootcamp\Lab6\Lab6\bin\Debug\Dice.dll
+D:\Programming\Grand Circus Bootcamp\Lab6\Lab6\bin\Debug\System.ValueTuple.dll
+D:\Programming\Grand Circus Bootcamp\Lab6\Lab6\bin\Debug\Dice.pdb
